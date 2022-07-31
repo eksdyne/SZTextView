@@ -1,5 +1,9 @@
 # Changelog
 
+**1.3.1**
+
+- Add SPM support. [@msmollin]
+
 **1.3.0**
 
  - Allow use in application extensions -- #55 [@simonboots]
